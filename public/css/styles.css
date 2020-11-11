@@ -1,0 +1,40 @@
+.header {
+    background-color: #EAC926;
+    font-family: 'Roboto', sans-serif;
+    font-size: 35px;
+    color: #03264C;
+
+}
+
+.body1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    color: #666;
+    text-align: justify;
+}
+
+h2 {
+    font-size: 32px;
+    font-family: 'Roboto', sans-serif;
+    color: #666;
+}
+
+h4 {
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+    color: #666;
+    text-transform: uppercase;
+}
+
+.links {
+    font-family: 'Roboto', sans-serif;
+    color:#1259c3;
+    font-weight: bold;
+}
+
+.footer {
+    font-size: 8px;
+    font-family: 'Roboto', sans-serif;
+    color:#ebebeb;
+    text-align: justify;
+}
